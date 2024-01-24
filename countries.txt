@@ -1,2 +1,3 @@
 joku maa, fiksaus
 fiksaus tiedostoon bugfix2 -haarassa
+fiksaus tiedostoon bugfix2 -haarassa
