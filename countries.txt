@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 joku maa. muuutos master-haarassa
-=======
 joku maa, fiksaus
->>>>>>> bugfix2
+uusi muutos master-haarassa
