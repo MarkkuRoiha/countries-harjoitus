@@ -1,3 +1,2 @@
-joku maa. muuutos master-haarassa
 joku maa, fiksaus
-uusi muutos master-haarassa
+fiksaus tiedostoon bugfix2 -haarassa
